@@ -150,7 +150,6 @@
 - [CLion](https://www.jetbrains.com/clion/) - Cross-platform IDE for C and C++.
 - [DataGrip](https://www.jetbrains.com/datagrip/) - Many databases, one tool.
 - [Eclipse](https://www.eclipse.org/) - Free, open source, written by Java and plugin architecture allows Eclipse to be extended in other languages.
-- [Frink](https://github.com/benord-labs/frink) - Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux. 👏
 - [GoLand](https://www.jetbrains.com/go/) - Cross-platform IDE built specially for Go developers.
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JVM languages.
 - [NetBeans](https://netbeans.org/) - Quickly and easily develop desktop, mobile, and web applications with Java.
@@ -241,6 +240,7 @@
 - [CrossMacro](https://github.com/alper-han/CrossMacro) - Cross-platform mouse and keyboard macro recorder, player, editor, and text expansion tool with Wayland and X11 support. 👏
 - [Cursay](https://github.com/shadoprizm/cursay) - Local-first push-to-talk dictation for Ubuntu that pastes transcribed speech into the active app. 👏
 - [EXIF Hound](https://github.com/minimallyexceptional/exif-hound) - Inspect image EXIF metadata locally, map GPS-tagged photos, import KML and export CSV/JSON. 👏
+- [Frink](https://github.com/benord-labs/frink) - Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux. 👏
 - [Leviate](https://github.com/vladpereverzyev/leviate) - Moves the mouse and 3D programs with hand gestures through the webcam or a phone, with the hand tracked on the computer. 👏
 - [Libre Calculator](https://librecalculator.com) - Topic calculators for web and desktop with worked steps, diagrams and lessons. 👏
 - [Mount Medic](https://github.com/aakashH242/mount-medic) - Diagnoses NTFS mount failures and offers limited, permission-controlled repairs on Linux. 👏
