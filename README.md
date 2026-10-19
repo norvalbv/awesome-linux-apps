@@ -150,6 +150,7 @@
 - [CLion](https://www.jetbrains.com/clion/) - Cross-platform IDE for C and C++.
 - [DataGrip](https://www.jetbrains.com/datagrip/) - Many databases, one tool.
 - [Eclipse](https://www.eclipse.org/) - Free, open source, written by Java and plugin architecture allows Eclipse to be extended in other languages.
+- [Frink](https://github.com/benord-labs/frink) - Fine-tuned automation for everyone: visual workflows where AI coding agents act on your tickets, errors and schedules, and ask before they change anything. Works with Claude Code, Codex, OpenCode, GitHub Copilot and Cursor. Local and open source, on macOS and Linux. 👏
 - [GoLand](https://www.jetbrains.com/go/) - Cross-platform IDE built specially for Go developers.
 - [IntelliJ IDEA](https://www.jetbrains.com/idea/) - Powerful IDE for JVM languages.
 - [NetBeans](https://netbeans.org/) - Quickly and easily develop desktop, mobile, and web applications with Java.
